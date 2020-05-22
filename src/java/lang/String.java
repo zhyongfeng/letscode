@@ -12,7 +12,8 @@ public class String {
     }
 
     //Error: Main method not found in class java.lang.String
-    //双亲委派，一直到系统类加载器找到了String，但是系统类String没有main方法
+    //双亲委派，一直到引导类加载器 BootstrapClassLoader，但是核心类库中String类没有main方法
+    //在JVM中，只有全类名一样，并且这个类的加载器也相同，这两个类才是一样的
 
     public static void main(String[] args) {
         System.out.println("This is customized String ");

@@ -1,7 +1,5 @@
 package atguigu;
 
-import sun.applet.Main;
-
 /**
  * @Author: yfzhang
  * @Description:
@@ -13,7 +11,6 @@ public class StringTest {
         String string = new String();
         System.out.println("Hello, I'm a string");
         System.out.println(string.getClass().getClassLoader());
-
         StringTest stringTest = new StringTest();
         System.out.println(stringTest.getClass().getClassLoader());
     }
