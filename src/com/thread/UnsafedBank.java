@@ -1,9 +1,5 @@
 package com.thread;
 
-import org.omg.PortableServer.THREAD_POLICY_ID;
-
-import static java.lang.Thread.*;
-
 /**
  * @Author: yfzhang
  * @Description:不安全的取钱

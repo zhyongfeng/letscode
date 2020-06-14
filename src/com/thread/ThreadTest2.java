@@ -1,10 +1,5 @@
 package com.thread;
 
-import com.sun.org.apache.xerces.internal.dom.PSVIAttrNSImpl;
-import com.sun.org.apache.xml.internal.utils.StringToIntTable;
-
-import javax.print.DocFlavor;
-
 /**
  * @Author: yfzhang
  * @Description: 写一个类实现Runnable接口，实现run方法。用new Thread(Runnable target).start()方法来启动
