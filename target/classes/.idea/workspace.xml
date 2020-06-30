@@ -60,7 +60,7 @@
         <counts>
           <entry key="class" value="17" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="98" />
+          <entry key="java" value="97" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -68,7 +68,7 @@
         <counts>
           <entry key="CLASS" value="17" />
           <entry key="Git file" value="1" />
-          <entry key="JAVA" value="98" />
+          <entry key="JAVA" value="97" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -76,13 +76,13 @@
         <counts>
           <entry key="dummy" value="47" />
           <entry key="ft" value="7" />
-          <entry key="java" value="7606" />
+          <entry key="java" value="7598" />
           <entry key="xml" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7606" />
+          <entry key="JAVA" value="7598" />
           <entry key="PLAIN_TEXT" value="47" />
           <entry key="VTL" value="7" />
           <entry key="XML" value="37" />
@@ -92,11 +92,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/kuang/annotations/Demo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            <state relative-caret-position="387">
+              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#209#210#0" expanded="true" />
@@ -104,15 +104,6 @@
                 <element signature="e#576#577#0" expanded="true" />
                 <element signature="e#600#601#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/SuppressWarnings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="46" column="42" lean-forward="true" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -385,7 +376,7 @@
     <property name="SearchEverywhereHistoryKey" value="hashmap&#9;PSI&#9;JAVA://java.util.HashMap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593503087980" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593502554013" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -521,19 +512,19 @@
       <workItem from="1592200105787" duration="6287000" />
       <workItem from="1593138378745" duration="4291000" />
       <workItem from="1593347242476" duration="29000" />
-      <workItem from="1593498043323" duration="3565000" />
+      <workItem from="1593498043323" duration="2602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62797000" />
+    <option name="totallyTimeSpent" value="61834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="956" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.61433446" visible="true" weight="0.21928747" />
-      <window_info id="Structure" order="1" sideWeight="0.38566554" side_tool="true" visible="true" weight="0.21928747" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6142012" visible="true" weight="0.21928747" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.3857988" side_tool="true" visible="true" weight="0.21928747" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -541,7 +532,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.50429976" side_tool="true" visible="true" weight="0.30650887" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50429976" side_tool="true" weight="0.30741626" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49938574" weight="0.24701671" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -810,6 +801,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/SuppressWarnings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/annotation/Annotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -937,8 +935,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/kuang/annotations/Demo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="387">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#209#210#0" expanded="true" />
@@ -946,13 +944,6 @@
             <element signature="e#576#577#0" expanded="true" />
             <element signature="e#600#601#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/SuppressWarnings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="46" column="42" lean-forward="true" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
         </state>
       </provider>
     </entry>
